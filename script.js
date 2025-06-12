@@ -1,2 +1,2 @@
-alert("this is bookmark created bye me")
+/alert("this is bookmark created bye me")
 
