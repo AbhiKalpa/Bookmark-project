@@ -2,3 +2,29 @@ body{
     background-color: rgb(185, 238, 107);
     color: black;
 }
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+#bookmarksList {
+  background: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
